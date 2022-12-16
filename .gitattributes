@@ -1,0 +1,10 @@
+data/clima.csv filter=lfs diff=lfs merge=lfs -text
+data/distancia_centro.csv filter=lfs diff=lfs merge=lfs -text
+data/DIVISA_DE_BAIRROS filter=lfs diff=lfs merge=lfs -text
+data/feriados_nacionais.xls filter=lfs diff=lfs merge=lfs -text
+data/sigesguarda_cleaned_georref.csv filter=lfs diff=lfs merge=lfs -text
+data/2022-09-01_sigesguarda_-_Base_de_Dados.csv filter=lfs diff=lfs merge=lfs -text
+data/analise_crime_filtrado.csv filter=lfs diff=lfs merge=lfs -text
+data/Chuva-Temperatura-MédiaMensalAnual-Curitiba-1991-2021.csv filter=lfs diff=lfs merge=lfs -text
+data/consulta-indices-bairros.csv filter=lfs diff=lfs merge=lfs -text
+data/DIVISA_DE_REGIONAIS filter=lfs diff=lfs merge=lfs -text
